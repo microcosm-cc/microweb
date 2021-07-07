@@ -8,7 +8,7 @@ Microweb is the official web client for Microco.sm, written in Django. If you're
 
 If you find any problems, just raise an issue on github and we'll respond ASAP.
 
-[![Build Status](https://travis-ci.org/microcosm-cc/microweb.png)](https://travis-ci.org/microcosm-cc/microweb)
+[![Build Status](https://travis-ci.org/microcosm-cc/microweb.svg?branch=master)](https://travis-ci.org/microcosm-cc/microweb)
 
 ## Project setup
 
